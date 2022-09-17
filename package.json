@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rony",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.1.4"
+  }
+}
